@@ -1,8 +1,12 @@
 # Пет-проекты
 
-Пока проекты вот такие
+## Маркетинговая аналитика
 
 [RFM-анализ (Pandas) аптечной сети](https://github.com/Valeratal/pet_projects/tree/main/RFM)
+
+[ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
+
+## Сайты 
 
 https://vv-travel.ru/ - сайт про красивые места нашей планеты
 
