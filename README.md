@@ -6,6 +6,11 @@
 
 [ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
 
+## Визуализации
+
+[Продвинутая визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
+
+
 ## Сайты 
 
 https://vv-travel.ru/ - сайт про красивые места нашей планеты
