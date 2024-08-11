@@ -6,6 +6,10 @@
 
 [ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
 
+## Аналитика
+
+[Анализ чата телеграм](https://github.com/Valeratal/pet_projects/tree/main/chat_telegram)
+
 ## Визуализации
 
 [Продвинутая визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
