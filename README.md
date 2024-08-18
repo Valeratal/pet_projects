@@ -6,7 +6,7 @@
 
 [ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
 
-[Кластериация клиентов рассылок с помощью K-Means](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
+[Кластериация клиентов рассылок с помощью K-Means ((Pandas, Seaborn, sklearn)](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
 ## Аналитика
 
 [Анализ чата телеграм](https://github.com/Valeratal/pet_projects/tree/main/chat_telegram)
