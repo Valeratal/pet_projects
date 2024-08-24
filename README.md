@@ -16,7 +16,7 @@
 [Продвинутая визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
 
 
-## Сайты 
+## Личные Сайты 
 
 https://hr-portal.ru/ сайт про управление персоналом и карьеру
 
