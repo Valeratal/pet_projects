@@ -14,11 +14,11 @@
 
 ## Хакатоны
 
-[X-MAS_HACK: Прогностическую модель для оптимизации размещения рекламных блоков](https://github.com/Valeratal/hakatons/tree/main/X-MAS_HACK_2023)
+[X-MAS_HACK: Прогностическая модель для оптимизации размещения рекламных блоков](https://github.com/Valeratal/hakatons/tree/main/X-MAS_HACK_2023)
 
 ## Визуализации
 
-[Продвинутая визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
+[Исследовательский анализ данных и визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
 
 
 ## Личные Сайты 
