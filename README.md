@@ -9,7 +9,7 @@
 [Кластериация клиентов рассылок с помощью K-Means (Pandas, Seaborn, sklearn)](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
 ## Аналитика
 
-[Анализ чата телеграм](https://github.com/Valeratal/pet_projects/tree/main/chat_telegram)
+[Анализ чата телеграм: активность по дням и часам, топ-пользователей. Phyton (Pandas) + дашборд в Power BI](https://github.com/Valeratal/pet_projects/tree/main/chat_telegram)
 
 ## Визуализации
 
