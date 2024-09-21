@@ -6,7 +6,8 @@
 
 [ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
 
-[Кластериация клиентов рассылок с помощью K-Means (Pandas, Seaborn, sklearn)](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
+[Кластериация клиентов рассылок с помощью K-Means (Pandas, Seaborn, Sklearn)](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
+[Прогнозирование оттока клиентов (Pandas, Matplotlib, Sklearn, Scipy)](https://github.com/Valeratal/pet_projects/tree/main/churn_fit_clients)
 
 ## Аналитика
 
