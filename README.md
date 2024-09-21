@@ -1,4 +1,4 @@
-# Пет-проекты
+# Некоторые проекты
 
 ## Маркетинговая аналитика
 
@@ -6,17 +6,25 @@
 
 [ABC-Анализ (Pandas, NumPy) продаж стиральных порошков](https://github.com/Valeratal/pet_projects/tree/main/ABC)
 
-## Визуализации
+[Кластериация клиентов рассылок с помощью K-Means (Pandas, Seaborn, sklearn)](https://github.com/Valeratal/pet_projects/tree/main/Mail_customer_cl)
 
-[Продвинутая визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
+## Аналитика
+
+[Анализ чата телеграм: активность по дням и часам, топ-пользователей. Phyton (Pandas) + дашборд в Power BI](https://github.com/Valeratal/pet_projects/tree/main/chat_telegram)
+
+## Хакатоны
+
+[X-MAS_HACK: Прогностическая модель для оптимизации размещения рекламных блоков](https://github.com/Valeratal/hakatons/tree/main/X-MAS_HACK_2023)
+
+## Анализ данных
+
+[Исследовательский анализ данных и визуализация с помощью Seaborn](https://github.com/Valeratal/pet_projects/tree/main/Advanced_Seaborn)
 
 
-## Сайты 
+## Личные Сайты 
+
+https://hr-portal.ru/ сайт про управление персоналом и карьеру
 
 https://vv-travel.ru/ - сайт про красивые места нашей планеты
 
 http://17koles.ru/ - сайт про автомобили
-
-Собственно самый старый и большой
-
-https://hr-portal.ru/ сайт про управление персоналом и карьеру
